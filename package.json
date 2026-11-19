@@ -1,0 +1,24 @@
+{
+  "name": "project-atlas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAMSI00777/Project-Atlas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VAMSI00777/Project-Atlas/issues"
+  },
+  "homepage": "https://github.com/VAMSI00777/Project-Atlas#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
